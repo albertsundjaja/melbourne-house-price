@@ -1,4 +1,4 @@
-# Melbourne Housing Market Analysis
+# COVID19 Melbourne Housing Market Analysis
 
 ### Table of Contents
 
@@ -25,11 +25,11 @@ jupyter notebook
 
 ## Project Motivation <a name="motivation"></a>
 
-The purpose of this project is to answer several questions regarding Melbourne's housing market using the 2016 - 2018 Melbourne House Price dataset
+The purpose of this project is to answer several questions regarding Melbourne's housing market during the COVID19 pandemic. We will be using the 2016 - 2018 Melbourne House Price dataset and a recently collected 2020 House Price dataset
 
-1. Which suburb is the most expensive?
-2. What are the top 3 factors which affect the price of a house?
-3. Which suburb has the highest growth in price?
+1. Does price go down during COVID19?
+1. Is the price of most expensive suburbs affected?
+3. What factors are important in determining property price? How does the pandemic affect this?
 
 ## File Descriptions <a name="files"></a>
 
@@ -41,6 +41,8 @@ Dataset used is available inside the data folder as a csv file
 
 MIT licensed
 
-The dataset is downloaded from Kaggle ([link](https://www.kaggle.com/anthonypino/melbourne-housing-market/data#Melbourne_housing_FULL.csv))
+The dataset for 2016-2018 is downloaded from Kaggle ([link](https://www.kaggle.com/anthonypino/melbourne-housing-market/data#Melbourne_housing_FULL.csv))
+
+2020 data is collected from publicly available data posted weekly by [Domain](https://www.domain.com.au/) 
 
 Data analysis and results in this project are not financial advise and should not be considered as one
