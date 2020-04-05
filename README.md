@@ -35,7 +35,11 @@ The purpose of this project is to answer several questions regarding Melbourne's
 
 Dataset used is available inside the data folder as a csv file
 
+`data_preparation.ipynb` is a Jupyter Notebook file containing all the codes that were used to analyze and produce charts.
+
 ## Results <a name="results"></a>
+
+Full result discussion is available in this [medium article](https://medium.com/@albertsundjaja/effect-of-covid-19-pandemic-to-melbourne-housing-market-8f8bfb56fe86).
 
 ## Licensing and Acknowledgements <a name="license"></a>
 
