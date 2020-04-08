@@ -35,7 +35,7 @@ The purpose of this project is to answer several questions regarding Melbourne's
 
 Dataset used is available inside the data folder as a csv file
 
-`analysis.ipynb` is a Jupyter Notebook file containing all the codes that were used to analyze and produce charts.
+`crisp-dm.ipynb` is a Jupyter Notebook file containing all the codes that were used to analyze and produce charts.
 
 ## Results <a name="results"></a>
 
